@@ -1,0 +1,5 @@
+Time start	23:02 PM
+Time end	10:28 AM
+Time taken	11 hours, 26 minutes
+Avg. per pair	6.68 minutes
+2 facts, 0.0 neighbourness
